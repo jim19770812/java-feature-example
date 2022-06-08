@@ -26,13 +26,15 @@
         <module>java11-features</module>
         <module>java16-features</module>
         <module>java17-features</module>
-        <module>java-guava-features</module>
-        <module>java-gson-features</module>
+        <module>guava-features</module>
+        <module>gson-features</module>
         <module>apache-commons-features</module>
         <module>mockito-features</module>
         <module>java-jsonpath-features</module>
         <module>java-springboot-web-features</module>
         <module>java-data-redis-features</module>
+        <module>java-netty-features</module>
+        <module>apache-zookeeper-features</module>
     </modules>
     <dependencyManagement>
         <dependencies>
